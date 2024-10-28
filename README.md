@@ -1,5 +1,5 @@
 # ADCSC-framework
-This is the code for our published paper "Asynchronous Decentralized Traffic Signal Coordinated Control in Urban Road Network" in _Computer-Aided Civil and Infrastructure Engineering_.
+This is the code for our paper "Asynchronous Decentralized Traffic Signal Coordinated Control in Urban Road Network" on _Computer-Aided Civil and Infrastructure Engineering_:
 
 Zhu, J., Ma, C., Shi, Y., Yang, Y., Guo, Y., & Yang, X. (2024). Asynchronous  decentralized traffic signal coordinated control in urban road network. _Computer-Aided Civil and Infrastructure Engineering_. Advance online publication. https://doi.org/10.1111/mice.13362
 
